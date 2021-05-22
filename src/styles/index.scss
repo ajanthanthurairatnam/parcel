@@ -1,0 +1,22 @@
+:root {
+  --mainBg: bisque;
+}
+
+$chocolate: chocolate;
+
+body {
+  margin: 0;
+  height: 100vh;
+  font-family: sans-serif;
+  background: var(--mainBg);
+  color: chocolate;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  h1 {
+    font-size: 4rem;
+    text-align: center;
+  }
+}

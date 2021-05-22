@@ -1,4 +1,4 @@
-console.log('Hello World Index');
+console.log('Hello About');
 
 if(module.hot)
 {
